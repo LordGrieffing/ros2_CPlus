@@ -1,0 +1,4 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/AddTwoServer.dir/src/AddTwoServer.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/AddTwoClient.dir/src/AddClient.cpp.o[0m
+[ 62%] Built target listener
+[ 75%] Built target talker

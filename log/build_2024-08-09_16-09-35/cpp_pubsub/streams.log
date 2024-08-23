@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/jacob/ros2_CPlus/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jacob/ros2_CPlus/build/cpp_pubsub -- -j16 -l16
+[0.051s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.070s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher.cpp.o[0m
+[3.582s] [100%] [32m[1mLinking CXX executable talker[0m
+[3.753s] [100%] Built target talker
+[3.765s] Invoked command in '/home/jacob/ros2_CPlus/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jacob/ros2_CPlus/build/cpp_pubsub -- -j16 -l16
+[3.800s] Invoking command in '/home/jacob/ros2_CPlus/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jacob/ros2_CPlus/build/cpp_pubsub
+[3.806s] -- Install configuration: ""
+[3.806s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/lib/cpp_pubsub/talker
+[3.807s] -- Set runtime path of "/home/jacob/ros2_CPlus/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[3.808s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[3.808s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[3.808s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[3.808s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[3.808s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[3.808s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[3.808s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[3.808s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[3.808s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[3.809s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[3.809s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[3.809s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[3.809s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[3.809s] -- Up-to-date: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[3.809s] -- Installing: /home/jacob/ros2_CPlus/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[3.811s] Invoked command in '/home/jacob/ros2_CPlus/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jacob/ros2_CPlus/build/cpp_pubsub

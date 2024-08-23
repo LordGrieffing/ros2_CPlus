@@ -1,0 +1,14 @@
+[01m[K/home/jacob/ros2_CPlus/src/cpp_pubsub/src/AddTwoServer.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kpractice_interfaces/srv/AddTwoInts.hpp: No such file or directory
+    2 | #include [01;31m[K"practice_interfaces/srv/AddTwoInts.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/jacob/ros2_CPlus/src/cpp_pubsub/src/AddClient.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kpractice_interfaces/srv/AddTwoInts.hpp: No such file or directory
+    2 | #include [01;31m[K"practice_interfaces/srv/AddTwoInts.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+compilation terminated.
+gmake[2]: *** [CMakeFiles/AddTwoClient.dir/build.make:76: CMakeFiles/AddTwoClient.dir/src/AddClient.cpp.o] Error 1
+gmake[2]: *** [CMakeFiles/AddTwoServer.dir/build.make:76: CMakeFiles/AddTwoServer.dir/src/AddTwoServer.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:195: CMakeFiles/AddTwoServer.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/AddTwoClient.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

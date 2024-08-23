@@ -1,0 +1,6 @@
+{
+  "package_name": "practice_interfaces",
+  "non_idl_tuples": [
+    "/home/jacob/ros2_CPlus/src/practice_interfaces:srv/AddTwoInts.srv"
+  ]
+}
